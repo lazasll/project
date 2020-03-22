@@ -1,0 +1,43 @@
+[33mcommit 91560a0c28d6f2f7a19e26ea94d08f39ec43ac07[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: c1d0dda 6315e1f
+Author: lazasll <lazasll@mail.ru>
+Date:   Sun Mar 22 20:55:57 2020 +0300
+
+    Merge branch 'master' of github.com:lazasll/project
+
+[33mcommit c1d0dda71cf963e3ac7bbda570789103d4b59a24[m[33m ([m[1;31morigin/feature[m[33m, [m[1;32mfeature[m[33m)[m
+Author: lazasll <lazasll@mail.ru>
+Date:   Sun Mar 22 20:36:41 2020 +0300
+
+    new code feature
+
+[33mcommit 6315e1f38edadbd4c0b22fb84ca668697d329700[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 280c37c 3c7b839
+Author: lazasll <lazasll@mail.ru>
+Date:   Sun Mar 22 20:25:02 2020 +0300
+
+    Merge branch 'gui_branch'
+
+[33mcommit 3c7b839104e085a63e31361cc8fb6350f4e2ed38[m
+Author: lazasll <lazasll@mail.ru>
+Date:   Sun Mar 22 20:23:31 2020 +0300
+
+    update git kraken
+
+[33mcommit 280c37ca5de7f0b4b0acade260e587b0324c1156[m
+Author: lazasll <62263195+lazasll@users.noreply.github.com>
+Date:   Sun Mar 22 11:44:37 2020 +0300
+
+    Update dev.md
+
+[33mcommit 574c2d07296a9d308c6c6f8ad76cf4cadd028c9f[m
+Author: lazasll <lazasll@mail.ru>
+Date:   Sun Mar 22 11:38:33 2020 +0300
+
+    first dev commit
+
+[33mcommit 96681153778c2e4e24d4ac45da82497fb4dd4a3f[m
+Author: lazasll <62263195+lazasll@users.noreply.github.com>
+Date:   Sun Mar 22 11:13:45 2020 +0300
+
+    Initial commit
